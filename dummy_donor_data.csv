@@ -1,0 +1,11 @@
+﻿Donor ID,Trans Number,Date,Amount,Assignment,Allocation,Gift Type,Allocation School
+DNR001,TRANS0001,2026-01-01,5000,Assignment 1,Allocation 1,Check,School 1
+DNR002,TRANS0002,2026-01-02,121,Assignment 2,Allocation 2,Cash,School 2
+DNR003,TRANS0003,2026-01-03,131.5,Assignment 3,Allocation 3,Check,School 3
+DNR004,TRANS0004,2026-01-04,142,Assignment 4,Allocation 4,Cash,School 1
+DNR005,TRANS0005,2026-01-05,152.5,Assignment 5,Allocation 5,Check,School 2
+DNR006,TRANS0006,2026-01-06,163,Assignment 6,Allocation 6,Cash,School 3
+DNR007,TRANS0007,2026-01-07,173.5,Assignment 7,Allocation 7,Check,School 1
+DNR008,TRANS0008,2026-01-08,184,Assignment 8,Allocation 8,Cash,School 2
+DNR009,TRANS0009,2026-01-09,194.5,Assignment 9,Allocation 9,Check,School 3
+DNR010,TRANS0010,2026-01-10,205,Assignment 10,Allocation 10,Cash,School 1
